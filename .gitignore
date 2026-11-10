@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# case answers (delivered as PDF via the form, not part of the repo)
+/docs/
